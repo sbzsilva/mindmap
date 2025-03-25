@@ -13,7 +13,7 @@ A collection of interactive mindmaps for IT certification exam preparation, crea
 4. [License](#license)
 5. [Disclaimer](#disclaimer)
 
-## 🧠 How to View These Mindmaps
+## How to View These Mindmaps
 
 These mindmaps are created using Mermaid syntax and can be viewed in several ways:
 
