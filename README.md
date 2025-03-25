@@ -1,4 +1,4 @@
-# 🧠 IT Certification Mindmaps 🧠
+# IT Certification Mindmaps
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/sbzsilva/mindmap)](https://github.com/sbzsilva/mindmap/commits/main)
@@ -30,16 +30,14 @@ Use online Mermaid renderers like:
 - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
 - [Markdown to Mermaid Converter](https://mermaid-js.github.io/mermaid/#/)
 
-## 📜 Available Certifications
+## Available Certifications
 
 | Certification      | Mindmap Files                          | Last Updated |
 |---------------------|----------------------------------------|--------------|
-| CompTIA Security+   | `SY0-601.md`, `Cryptography.md`        | 2023-10-15   |
-| AWS Solutions Architect | `AWS-SAA.md`, `CloudDesign.md`      | 2023-09-22   |
-| Microsoft Azure     | `AZ-900.md`, `AZ-104.md`              | 2023-11-01   |
-| (Add more here)     |                                        |              |
+| Cisco   | `200-301.md`        | March 24, 2025   |
+| (More to come...)     |                                        |              |
 
-## 🤝 How to Contribute
+## How to Contribute
 
 1. Fork the repository
 2. Create your mindmap using Mermaid syntax in a new `.md` file
@@ -53,7 +51,7 @@ Use online Mermaid renderers like:
 - Include version/date in filenames
 - Add brief description in PR comments
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -61,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 These mindmaps are community-created study aids and not affiliated with certification vendors. Always supplement with official exam guides.
 
-## 🚀 Get Involved
+## Get Involved
 
 Help improve these resources by:
 - Adding new certification mindmaps
@@ -69,7 +67,7 @@ Help improve these resources by:
 - Creating printable versions
 - Developing companion cheat sheets
 
-## 📖 Future Roadmap
+## Future Roadmap
 
 - Interactive web viewer implementation
 - Certification comparison matrix
