@@ -33,9 +33,9 @@ Use online Mermaid renderers like:
 
 ## Available Certifications
 
-| Certification      | Mindmap Files                          | Last Updated |
+| Certification      | Mindmap Files                          | Reference |
 |---------------------|----------------------------------------|--------------|
-| Cisco   | [200-301.md](https://github.com/sbzsilva/mindmap/blob/main/Cisco/CCNA/200-301.md)        | March 24, 2025|
+| Cisco   | [200-301.md](https://github.com/sbzsilva/mindmap/blob/main/Cisco/CCNA/200-301.md)        | [Exam Topics](https://learningnetwork.cisco.com/s/ccna-exam-topics)|
 | (More to come...)     |                                        |              |
 
 ## How to Contribute
