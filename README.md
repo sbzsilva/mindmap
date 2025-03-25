@@ -35,7 +35,7 @@ Use online Mermaid renderers like:
 
 | Certification      | Mindmap Files                          | Last Updated |
 |---------------------|----------------------------------------|--------------|
-| Cisco   | `200-301.md`        | March 24, 2025   |
+| Cisco   | [200-301.md](https://github.com/sbzsilva/mindmap/blob/main/Cisco/CCNA/200-301.md)        | March 24, 2025   |
 | (More to come...)     |                                        |              |
 
 ## How to Contribute
