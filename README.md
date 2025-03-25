@@ -1,12 +1,9 @@
 # IT Certification Mindmaps
 
 [![License](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-![GitHub top language](https://img.shields.io/github/languages/top/sbzsilva/mindmap?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/sbzsilva/mindmap?style=flat)
+
 ![ViewCount](https://views.whatilearened.today/views/github/sbzsilva/mindmap.svg?cache=remove)
-![GitHub forks](https://img.shields.io/github/forks/sbzsilva/mindmap?style=flat)
-![GitHub stars](https://img.shields.io/github/stars/sbzsilva/mindmap?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/sbzsilva/mindmap?style=flat)   
+style=flat)   
 
 A collection of interactive mindmaps for IT certification exam preparation, created using [Mermaid](https://mermaid.js.org/). These visual study aids help organize complex certification topics into digestible formats.
 
