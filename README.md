@@ -35,7 +35,7 @@ Use online Mermaid renderers like:
 
 | Certification      | Mindmap Files                          | Last Updated |
 |---------------------|----------------------------------------|--------------|
-| Cisco   | [200-301.md](https://github.com/sbzsilva/mindmap/blob/main/Cisco/CCNA/200-301.md)        | [![Last Commit](https://img.shields.io/badge/Last%20Commit-$(curl -s https://api.github.com/repos/sbzsilva/mindmap/commits?path=Cisco/CCNA/200-301.md | jq -r '.[0].commit.committer.date' | cut -d'T' -f1)-blue)] |
+| Cisco   | [200-301.md](https://github.com/sbzsilva/mindmap/blob/main/Cisco/CCNA/200-301.md)        | March 24, 2025|
 | (More to come...)     |                                        |              |
 
 ## How to Contribute
